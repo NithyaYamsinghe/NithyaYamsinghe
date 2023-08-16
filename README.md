@@ -1,4 +1,4 @@
-### Hi There, I'm Nithya Romeshika Yamasinghe 👋
+### Hi There, It's Nithya Romeshika Yamasinghe 👋
 
 <img align="left" width="150" src="https://octodex.github.com/images/welcometocat.png">
 
